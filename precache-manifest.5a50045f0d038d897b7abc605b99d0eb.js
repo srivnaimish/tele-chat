@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "072b0df6b19566bba99896a837dce9e6",
+    "revision": "d73b9573539cdca75fdec99873e3e689",
     "url": "/tele-chat/index.html"
   },
   {
@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/tele-chat/static/css/7.751a6c49.chunk.css"
   },
   {
-    "revision": "3e3cbd14c987e9af540e",
+    "revision": "92b10d6be6fadb122d78",
     "url": "/tele-chat/static/css/main.162c7196.chunk.css"
   },
   {
@@ -48,8 +48,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/tele-chat/static/js/7.e805f045.chunk.js"
   },
   {
-    "revision": "3e3cbd14c987e9af540e",
-    "url": "/tele-chat/static/js/main.cc53703a.chunk.js"
+    "revision": "92b10d6be6fadb122d78",
+    "url": "/tele-chat/static/js/main.bab1fdba.chunk.js"
   },
   {
     "revision": "b6aad81949695b0ef0e8",
